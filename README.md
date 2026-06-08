@@ -102,3 +102,16 @@ The dataset includes:
 * Add Director performance analysis
 * Create a Power BI version of the dashboard
 * Add advanced interactive dashboard features
+
+## Learning Outcomes
+
+Through this project, I gained hands-on experience in:
+
+- Building interactive dashboards in Tableau
+- Creating KPI cards and filters
+- Designing effective data visualizations
+- Performing exploratory data analysis (EDA)
+- Identifying trends and patterns in movie data
+- Answering business-focused analytical questions
+- Converting data findings into actionable insights
+- Presenting data through storytelling and dashboard design
